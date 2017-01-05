@@ -1,10 +1,3 @@
-/*
- * twoSum.h
- *
- *  Created on: 2017年1月6日
- *      Author: lzd
- */
-
 #ifndef TWOSUM_TWOSUM_H_
 #define TWOSUM_TWOSUM_H_
 
