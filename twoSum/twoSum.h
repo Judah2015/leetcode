@@ -9,7 +9,7 @@ using namespace std::tr1;
 
 class twoSum {
 public:
-    vector<int> f1(vector<int>& nums, int target) {
+    vector<int> f(vector<int>& nums, int target) {
         unordered_map<int, int> hash;
         vector<int> result;
         for (int i = 0; i < nums.size(); i++) {
